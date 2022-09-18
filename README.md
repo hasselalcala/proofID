@@ -1,16 +1,13 @@
-# Proofly
-
+# ProofID
 Is a credibility soul bounded token that allows people to proof their financial status to 3rd party entities using zero knowledge. With Proofly you can make your data your own. Protecting your personal information is our top priority, with Proofly to take the control back to your hands.
 
 
 ## Team
 
-- Francisco Espejo 
 - Fernando Salvago
 - Adrià Torralba Agell
-- Edson Alcalá 
 - Hassel Alcalá 
-- Lorena 
+- Lorena Koehlmoos
 - Denny Portillo 
 
 ## How is the project built?
@@ -43,5 +40,12 @@ We have used Circom with SnarkJS to build circuits which use Groth16 as the prov
 - **Hardhat**: Integrated Development Environment (IDE) for Ethereum, Smart Contracts, Testing, Debugging and Tooling for Solidity.
 
 - **Typescript**: Typed Javascript-like programming language.
+
+Repo links:
+
+![Backend](https://github.com/fernantho/proof-id-backend)
+![contracts](https://github.com/EdsonAlcala/proof-id)
+![Circom circuits](https://github.com/0xAdriaTorralba/EthBerlin3Hackathon)
+
 
 
