@@ -1,5 +1,5 @@
 # ProofID
-Is a credibility soul bounded token that allows people to proof their financial status to 3rd party entities using zero knowledge. With Proofly you can make your data your own. Protecting your personal information is our top priority, with Proofly to take the control back to your hands.
+Is a credibility soul bounded token that allows people to proof their financial status to 3rd party entities using zero knowledge. With ProofID you can make your data your own. Protecting your personal information is our top priority, with ProofID to take the control back to your hands.
 
 
 ## Team
