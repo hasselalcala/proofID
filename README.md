@@ -45,6 +45,7 @@ Repo links:
 - Backend: https://github.com/fernantho/proof-id-backend
 - Contracts: https://github.com/EdsonAlcala/proof-id)
 - Circom circuits: https://github.com/0xAdriaTorralba/EthBerlin3Hackathon
+- Video demo: https://www.youtube.com/shorts/aocf9FwsCzk
 
 
 
