@@ -42,10 +42,9 @@ We have used Circom with SnarkJS to build circuits which use Groth16 as the prov
 - **Typescript**: Typed Javascript-like programming language.
 
 Repo links:
-
-![Backend](https://github.com/fernantho/proof-id-backend)
-![contracts](https://github.com/EdsonAlcala/proof-id)
-![Circom circuits](https://github.com/0xAdriaTorralba/EthBerlin3Hackathon)
+- Backend: https://github.com/fernantho/proof-id-backend
+- Contracts: https://github.com/EdsonAlcala/proof-id)
+- Circom circuits: https://github.com/0xAdriaTorralba/EthBerlin3Hackathon
 
 
 
