@@ -27,11 +27,21 @@ Due to time constraints, we could not include 2 other proofs which are based on 
 We have used Circom with SnarkJS to build circuits which use Groth16 as the proving system.
 
 
+## Development Stack
+
+- **NextJs**: A very popular React framework. It is one of the most loved framework from the community.
+
+- **Wagmi**: A collection of React hooks which bundle all the requirements to build with Ethereum. From queries to signs, going through interaction with Smart Contracts.
+
+- **RainbowKit**: Conectivity made easy for React Developers. Mady by the Rainbow Wallet team.
+
+- **TailwindCSS**: A utility framework that enable a configuration set which is consistent with a lot of custom development components.
 
 
+- **Alchemy**: RPC provider. This platform make dev life easier when doing the dApps architecture. OpenSea, Chainlink and Meta are between its available clients.
 
+- **Hardhat**: Integrated Development Environment (IDE) for Ethereum, Smart Contracts, Testing, Debugging and Tooling for Solidity.
 
-
-
+- **Typescript**: Typed Javascript-like programming language.
 
 
